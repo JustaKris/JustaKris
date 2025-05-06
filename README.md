@@ -8,12 +8,12 @@ Professionally, I work on turning complex legacy projects into clean Python pipe
 
 ## 💡 About Me
 
-- ⚙️ Currently: working on a variety of comany projects, modernizing and automating legacy projects into efficinent modern version with cloud integration and bringing cutting edge technologies by creating new project, power by the latest tech in the field using state of the art models and LLMs
-- 🧠 Constantly learning: **Cloud Technologies**, **Machine Learning**, and more about LLMs  
+- ⚙️ Currently: Working on a variety of company projects, modernizing and automating legacy systems into efficient, cloud-integrated solutions. I’m leveraging cutting-edge technologies to create new projects powered by the latest models and LLMs (Large Language Models).
+- 🧠 Constantly Learning: I’m passionate about expanding my knowledge in Cloud Technologies, Machine Learning, and the evolving field of LLMs.
 - 🤖 Recent work includes:
-    - Box office predictions and analysis for Movies and TV Shows along with data collection via APIs and scraping
-    - using LLMs internally for database exploration and automation
-    - Imaga classification app deployment for Chest-Xrays
+    - Box office predictions and analysis for movies and TV shows, incorporating data collection via APIs and web scraping
+    - Developing internal tools using LLMs for database exploration and automation
+    - Deploying and refining an image classification app for Chest-Xray image analysis
 - 🛠️ I enjoy solving weird edge cases and making projects and pipelines bulletproof  
 - 🎸 Music, fitness, and screen time (movies, series, or games) keep me balanced  
 - 📬 Always open to collaboration, fun side projects, or just chatting tech!
