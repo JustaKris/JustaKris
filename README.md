@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Krystiyan — a curious and driven data scientist who enjoys building smart tools, untangling messy data, and automating the boring bits. I love figuring out the “why” behind anything and everything, whether it’s uncovering patterns in a massive dataset or improving the way a project works.
+I'm Krystiyan — a curious and driven <b>Data Scientist | AI Software Engineer</b> who enjoys building smart tools, untangling messy data, and automating the boring bits. I love figuring out the “why” behind anything and everything, whether it’s uncovering patterns in a massive dataset or improving the way a project works.
 
 Professionally, I work on turning complex legacy projects into clean Python pipelines, deploying lightweight tools to clod platforms (AWS and Azure), and crafting solutions that are practical, robust, and easy to maintain. I’ve also worked with LLMs in production (even if just a little) and enjoy experimenting with their potential for streamlining workflows.
 
