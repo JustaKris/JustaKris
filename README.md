@@ -2,14 +2,18 @@
 
 I'm Krystiyan — a curious and driven <b>Data Scientist | AI Software Engineer</b> who enjoys building smart tools, untangling messy data, and automating the boring bits. I love figuring out the “why” behind anything and everything, whether it’s uncovering patterns in a massive dataset or improving the way a project works.
 
-Professionally, I work on turning complex legacy projects into clean Python pipelines, deploying lightweight tools to clod platforms (AWS and Azure), and crafting solutions that are practical, robust, and easy to maintain. I’ve also worked with LLMs in production (even if just a little) and enjoy experimenting with their potential for streamlining workflows.
+Professionally, I specialize in engineering end-to-end AI/ML solutions, from modernizing legacy systems into efficient Python pipelines to deploying robust, containerized applications on cloud platforms (AWS and Azure). My focus is on creating practical, scalable, and maintainable software. I have also gained hands-on experience (though limited) with LLMs in production environments, exploring their potential for streamlining workflows and enhancing user experiences.
 
 ---
 
 ## 💡 About Me
 
-- ⚙️ Currently: Working on a variety of company projects, modernizing and automating legacy systems into efficient, cloud-integrated solutions. I’m leveraging cutting-edge technologies to create new projects powered by the latest models and LLMs (Large Language Models).
-- 🧠 Constantly Learning: I’m passionate about expanding my knowledge in Cloud Technologies, Machine Learning, and the evolving field of LLMs.
+- ⚙️ Currently: My recent work primarily involves modernizing and automating legacy systems into efficient, cloud-integrated solutions, leveraging cutting-edge AI/ML models and LLMs to build new, impactful projects. While most of my contributions are on private company GitLab repositories, this work includes:
+    - Architecting and optimizing scalable ETL pipelines for downstream AI/ML applications
+    - Implementing CI/CD pipelines and containerized deployments on AWS
+    - Prototyping and deploying robust ML models for various applications, including profitability forecasting
+    - Developing internal tools using LLMs for tasks like database exploration and workflow automation
+- 🧠 Constantly Learning: I’m passionate about expanding my knowledge in Cloud Technologies, Machine Learning, MLOps and the evolving field of Generative AI.
 - 🤖 Recent work includes:
     - Box office predictions and analysis for movies and TV shows, incorporating data collection via APIs and web scraping
     - Developing internal tools using LLMs for database exploration and automation
