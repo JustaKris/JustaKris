@@ -8,13 +8,13 @@ Professionally, I specialize in engineering end-to-end AI/ML solutions, from mod
 
 ## 💡 About Me
 
-- ⚙️ Currently: My recent work primarily involves modernizing and automating legacy systems into efficient, cloud-integrated solutions, leveraging cutting-edge AI/ML models and LLMs to build new, impactful projects. While most of my contributions are on private company GitLab repositories, this work includes:
+- ⚙️ <b>Currently:</b> My recent work primarily involves modernizing and automating legacy systems into efficient, cloud-integrated solutions, leveraging cutting-edge AI/ML models and LLMs to build new, impactful projects. While most of my contributions are on private company GitLab repositories, this work includes:
     - Architecting and optimizing scalable ETL pipelines for downstream AI/ML applications
     - Implementing CI/CD pipelines and containerized deployments on AWS
     - Prototyping and deploying robust ML models for various applications, including profitability forecasting
     - Developing internal tools using LLMs for tasks like database exploration and workflow automation
-- 🧠 Constantly Learning: I’m passionate about expanding my knowledge in Cloud Technologies, Machine Learning, MLOps and the evolving field of Generative AI.
-- 🤖 Recent work includes:
+- 🧠 <b>Constantly Learning:</b> I’m passionate about expanding my knowledge in Cloud Technologies, Machine Learning, MLOps and the evolving field of Generative AI.
+- 🤖 <b>Recent work includes:</b>
     - Box office predictions and analysis for movies and TV shows, incorporating data collection via APIs and web scraping
     - Developing internal tools using LLMs for database exploration and automation
     - Deploying and refining an image classification app for Chest-Xray image analysis
