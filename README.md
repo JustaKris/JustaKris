@@ -110,7 +110,7 @@ My recent work focuses on modernizing legacy analytical systems and building end
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -122,7 +122,7 @@ My recent work focuses on modernizing legacy analytical systems and building end
 
 </div>
 
----
+--- -->
 
 ## 🧭 Current Focus
 
