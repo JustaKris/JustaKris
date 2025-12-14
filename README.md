@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristiyan-bonev-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.s.bonev@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JustaKris&color=blueviolet&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=JustaKris&color=blueviolet&style=for-the-badge) -->
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a curious and driven **Data Scientist | AI/ML Engineer** who enjoys figuring out the "why" behind anything and everything, with a Data Science background, focused on building practical, production-ready AI systems and modern cloud-native applications.
+I'm a curious and driven **Data Scientist | AI/ML Engineer** who enjoys figuring out the "why" behind anything and everything, with a Data Science background, focused on building practical, production-ready ML/AI systems and modern cloud-native applications.
 
 I enjoy turning messy data, legacy workflows, and vague business problems into clean Python pipelines, deployable ML services, and useful AI-powered tools. I'm especially interested in the intersection of Machine Learning, Generative AI, and software engineering — where models actually ship and create real impact. My philosophy: understand the **why** behind a model, not just the how.
 
@@ -114,14 +114,11 @@ My recent work focuses on modernizing legacy analytical systems and building end
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustaKris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustaKris&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustaKris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustaKris&layout=compact&langs_count=8&theme=tokyonight)
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustaKris&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustaKris&theme=tokyonight)
 
 </div>
 
@@ -129,21 +126,14 @@ My recent work focuses on modernizing legacy analytical systems and building end
 
 ## 🧭 Current Focus
 
-```python
-current_focus = {
-    "learning": ["MLOps Best Practices", "Cloud Architecture", "Advanced RAG Systems", "LLM Fine-tuning"],
-    "building": ["Production ETL Pipelines", "RAG-based AI Tools", "ML Model Deployment", "Automation Scripts"],
-    "improving": ["Code Quality & Testing", "System Architecture", "CI/CD Workflows"],
-    "exploring": ["Vector Databases", "Agentic AI", "Responsible AI", "Cloud-Native ML"]
-}
-```
-
 - 🔨 Building production-ready ML pipelines and deploying them on AWS/Azure
 - 💬 Developing RAG-based chatbot systems with LangChain and vector databases
 - 📦 Modernizing legacy statistical projects (SPSS/R) into scalable Python systems
 - 🤖 Creating ML models for forecasting, imputation, and classification tasks
 - 🧪 Experimenting with semantic search, embeddings, and prompt engineering
-- ☁️ Learning just enough DevOps to be dangerous 😄
+- 📚 Learning MLOps best practices and advanced RAG architectures
+- ☁️ Exploring cloud-native ML deployments and agentic AI systems
+- 🔧 Just enough DevOps to be dangerous 😄
 
 ---
 
@@ -161,7 +151,5 @@ Always happy to chat about data, tech, or interesting side quests.
 <div align="center">
 
 *Thanks for stopping by!* ✨
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
