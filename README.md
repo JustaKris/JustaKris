@@ -29,16 +29,16 @@ My recent work focuses on modernizing legacy analytical systems and building end
 - 🔄 Re-engineering legacy statistical projects (SPSS/R) into modern, maintainable Python systems
 - 🤖 Building and deploying **ML models** for real business use cases — forecasting, imputation, TV viewing prediction, and classification
 - 🚀 Deploying containerized applications on **AWS** (Lambda, ECS/Fargate, S3, ALB) with CI/CD pipelines
-- 💬 Prototypeing **RAG-based chatbot systems** using modern LLM stacks (embeddings, vector search, prompt engineering)
+- 💬 Prototyping **RAG-based chatbot systems** using modern LLM stacks (embeddings, vector search, prompt engineering)
 - 🧠 Creating internal AI tools for database exploration, automation, and analytics support
 
 ### 🌱 Recent Projects & AI Work
 
-- **RAG-based Chatbot Systems**: End-to-end chatbot using retrieval-augmented generation for contextual QA
-- **ML Models in Production**: Forecasting models, imputation pipelines, and TV viewing prediction systems
-- **Box Office Predictions**: Analysis for movies and TV shows, incorporating data collection via APIs and web scraping
+- **RAG-based Chatbot Systems**: End-to-end chatbot using LangChain, embeddings, RAG and vector search for contextual document Q&A and workflow automation
+- **Production ML Models**: Profitability forecasting using Scikit-learn and PyTorch, TV viewing prediction systems, and data imputation pipelines
+- **Python Automation**: Automated data workflows using Python scripting and job scheduling for routine tasks
+- **Box Office Analytics**: Movie and TV show analysis incorporating API integration and web scraping
 - **Medical AI**: CNN-based Chest X-ray image classification with deployment focus
-- **NLP Pipelines**: Text analysis, semantic search, and LLM-powered automation tools
 - **Continuous Learning**: Expanding knowledge in Cloud Technologies, Machine Learning, MLOps, and Generative AI
 
 ### 💡 What Drives Me
@@ -46,7 +46,7 @@ My recent work focuses on modernizing legacy analytical systems and building end
 - 🚀 Building ML systems that actually ship and create impact
 - 📊 Understanding the "why" behind it all — defining problems clearly and turning complex data into actionable insights
 - ⚡ Making AI tools usable in real workflows, not just notebooks
-- ⚡ Automating repetitive tasks to focus on what matters
+- ⚙️ Automating repetitive tasks to focus on what matters
 - 🎸 Balancing tech with music, fitness, and too many movies, series, and games
 - 🤝 Always open to collaboration, fun side projects, or chatting tech!
 
@@ -82,6 +82,7 @@ My recent work focuses on modernizing legacy analytical systems and building end
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </details>
 
@@ -104,8 +105,6 @@ My recent work focuses on modernizing legacy analytical systems and building end
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=Hugging-Face&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 </details>
 
@@ -132,17 +131,18 @@ My recent work focuses on modernizing legacy analytical systems and building end
 
 ```python
 current_focus = {
-    "learning": ["MLOps", "Cloud Architecture", "GenAI", "Advanced LLM Integration"],
-    "building": ["Automated ETL Pipelines", "LLM-Powered Tools", "ML Model Deployment"],
-    "improving": ["Code Quality", "System Architecture", "DevOps Practices"],
-    "exploring": ["Emerging AI Frameworks", "Cloud-Native Solutions"]
+    "learning": ["MLOps Best Practices", "Cloud Architecture", "Advanced RAG Systems", "LLM Fine-tuning"],
+    "building": ["Production ETL Pipelines", "RAG-based AI Tools", "ML Model Deployment", "Automation Scripts"],
+    "improving": ["Code Quality & Testing", "System Architecture", "CI/CD Workflows"],
+    "exploring": ["Vector Databases", "Agentic AI", "Responsible AI", "Cloud-Native ML"]
 }
 ```
 
 - 🔨 Building production-ready ML pipelines and deploying them on AWS/Azure
-- 📦 Porting legacy statistical projects (SPSS/R) into modern, modular Python systems
-- 🤖 Leveraging the power of LLMs to power-up projects and workflows
-- 🧪 Experimenting with vector databases and semantic search pipelines
+- 💬 Developing RAG-based chatbot systems with LangChain and vector databases
+- 📦 Modernizing legacy statistical projects (SPSS/R) into scalable Python systems
+- 🤖 Creating ML models for forecasting, imputation, and classification tasks
+- 🧪 Experimenting with semantic search, embeddings, and prompt engineering
 - ☁️ Learning just enough DevOps to be dangerous 😄
 
 ---
